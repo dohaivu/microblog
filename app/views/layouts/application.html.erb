@@ -6,7 +6,7 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
-	<title>Ruby on Rails Tutorial Sample App | <%= yield(:title) %></title>
+	<title><%= full_title(yield(:title)) %></title>
 <%= yield %>
 
 </body>
