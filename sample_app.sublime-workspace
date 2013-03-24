@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"ti",
+				"title"
+			],
+			[
+				"desc",
+				"describe"
+			],
+			[
 				"folo",
 				"followerCount"
 			],
@@ -91,36 +99,28 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/d/Projects/rails_projects/sample_app/Gemfile",
-			"settings":
-			{
-				"buffer_size": 755,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/d/Projects/rails_projects/sample_app/README.md",
-			"settings":
-			{
-				"buffer_size": 204,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
 	{
-		"height": 310.0,
+		"height": 375.0,
 		"selected_items":
 		[
 			[
-				"save",
-				"Project: Save As"
+				"",
+				"File: Close All"
 			],
 			[
 				"rails",
 				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"save",
+				"Project: Save As"
 			],
 			[
 				"close",
@@ -141,10 +141,6 @@
 			[
 				"html",
 				"Set Syntax: HTML5"
-			],
-			[
-				"ruby",
-				"Set Syntax: Ruby"
 			],
 			[
 				"syntax ry",
@@ -277,10 +273,6 @@
 			[
 				"file",
 				"File: Search Files"
-			],
-			[
-				"",
-				"About"
 			],
 			[
 				"update",
@@ -471,7 +463,7 @@
 				"Set Syntax: Markdown"
 			]
 		],
-		"width": 514.0
+		"width": 499.0
 	},
 	"console":
 	{
@@ -488,6 +480,22 @@
 	},
 	"file_history":
 	[
+		"/d/Projects/rails_projects/sample_app/spec/features/static_pages_spec.rb",
+		"/d/Projects/rails_projects/sample_app/config/routes.rb",
+		"/d/Projects/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
+		"/d/Projects/rails_projects/sample_app/app/views/static_pages/contact.html.erb",
+		"/d/Projects/rails_projects/sample_app/Gemfile",
+		"/d/Projects/rails_projects/sample_app/spec/spec_helper.rb",
+		"/d/Projects/rails_projects/sample_app/.rspec",
+		"/d/Projects/rails_projects/sample_app/Guardfile",
+		"/d/Projects/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/views/static_pages/about.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/views/static_pages/help.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+		"/d/Projects/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/d/Projects/rails_projects/sample_app/README.md",
+		"/d/Projects/rails_projects/sample_app/public/hello.html",
+		"/d/Softwares/Sublime Text 2.0.1 x64/Data/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
 		"/d/Projects/rails_projects/sample_app/config/initializers/mime_types.rb",
 		"/D/Projects/rails_projects/first_app/config/application.rb",
 		"/D/Projects/rails_projects/first_app/public/index.html",
@@ -606,6 +614,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Ruby on Rails Tutorial Sample App",
 			"sql",
 			"		.",
 			"private",
@@ -637,64 +646,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/d/Projects/rails_projects/sample_app/Gemfile",
-					"settings":
-					{
-						"buffer_size": 755,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								203,
-								203
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/d/Projects/rails_projects/sample_app/README.md",
-					"settings":
-					{
-						"buffer_size": 204,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								204,
-								204
-							]
-						],
-						"settings":
-						{
-							"is_xml": false,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -748,12 +701,72 @@
 		"selected_items":
 		[
 			[
-				"read",
-				"README.md"
+				"gua",
+				"Guardfile"
+			],
+			[
+				"speche",
+				"spec/spec_helper.rb"
 			],
 			[
 				"gem",
 				"Gemfile"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"gur",
+				"Guardfile"
+			],
+			[
+				"control",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"specsta",
+				"spec/features/static_pages_spec.rb"
+			],
+			[
+				"about",
+				"app/views/static_pages/about.html.erb"
+			],
+			[
+				"hel",
+				"app/views/static_pages/help.html.erb"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"he",
+				"app/views/static_pages/help.html.erb"
+			],
+			[
+				"help",
+				"app/views/static_pages/help.html.erb"
+			],
+			[
+				"rps",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"sta",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"rsp",
+				".rspec"
+			],
+			[
+				"read",
+				"README.md"
 			],
 			[
 				"gems",
@@ -801,10 +814,6 @@
 			],
 			[
 				"hom",
-				"views/home.jade"
-			],
-			[
-				"home",
 				"views/home.jade"
 			],
 			[
