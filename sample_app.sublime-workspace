@@ -1,0 +1,863 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"folo",
+				"followerCount"
+			],
+			[
+				"foll",
+				"followerCount"
+			],
+			[
+				"fo",
+				"followerCount"
+			],
+			[
+				"p",
+				"put"
+			],
+			[
+				"a",
+				"ari	aria-"
+			],
+			[
+				"asser",
+				"assert.equal(actual, expected, message);"
+			],
+			[
+				"sc",
+				"script	<script>"
+			],
+			[
+				"style",
+				"style	<style>"
+			],
+			[
+				"me",
+				"meta	Tag"
+			],
+			[
+				"meta",
+				"meta	HTML - Meta tags"
+			],
+			[
+				"m",
+				"meta	Tag"
+			],
+			[
+				"g",
+				"fs.chown(path, uid, gid, callback);"
+			],
+			[
+				"foot",
+				"FOOTER	Tag"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"f",
+				"fun	Function"
+			],
+			[
+				"jq",
+				"jq-boilerplate-min	jQuery Plugin Boilerplate Minified"
+			],
+			[
+				"if",
+				"interface"
+			],
+			[
+				"test",
+				"test1"
+			],
+			[
+				"img",
+				"images"
+			],
+			[
+				"fra",
+				"frame"
+			],
+			[
+				"on",
+				"onImageLoad"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/d/Projects/rails_projects/sample_app/Gemfile",
+			"settings":
+			{
+				"buffer_size": 755,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/d/Projects/rails_projects/sample_app/README.md",
+			"settings":
+			{
+				"buffer_size": 204,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 310.0,
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"rails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"syntax ry",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"upge",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upga",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"merge",
+				"Sublimerge: View Diff"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jaa",
+				"Format: Javascript"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"project",
+				"Rope: New Project"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"syntax jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"syntax jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"relp",
+				"SublimeREPL: Python - virtualenv"
+			],
+			[
+				"diable",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"rope",
+				"Rope: New Project"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"snippet	",
+				"Snippet: Function"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"file",
+				"File: Search Files"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"update",
+				"Auto Copyright: Update Copyright"
+			],
+			[
+				"righg",
+				"Auto Copyright: Insert Copyright"
+			],
+			[
+				"right",
+				"Auto Copyright: Insert Copyright"
+			],
+			[
+				"cipy",
+				"Auto Copyright: Insert Copyright"
+			],
+			[
+				"tag",
+				"Tag: Remove All Tags in Document"
+			],
+			[
+				"brak",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"install	",
+				"Package Control: Install Package"
+			],
+			[
+				"filecop",
+				"File: Copy as Tag a"
+			],
+			[
+				"file co",
+				"File: Copy Path"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"br",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"edit",
+				"Project: Edit"
+			],
+			[
+				"snippet do",
+				"Snippet: HTML - HTML foundation"
+			],
+			[
+				"open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"brower",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"forma	",
+				"Snippet: for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"pakce",
+				"Package Control: Install Package"
+			],
+			[
+				"types",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"buli",
+				"Build: Build"
+			],
+			[
+				"bui",
+				"Build: Build"
+			],
+			[
+				"pyh",
+				"Set Syntax: Python"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet aja	",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"jquery",
+				"Snippet: jQuery Plugin Boilerplate"
+			],
+			[
+				"snippet",
+				"Snippet: jQuery change handler"
+			],
+			[
+				"jquery	",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"snipper",
+				"Snippet: jQuery AJAX call"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet if",
+				"Snippet: if … else"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"packe",
+				"Package Control: Remove Package"
+			],
+			[
+				"com",
+				"Compile TypeScript"
+			],
+			[
+				"typesc",
+				"Compile TypeScript"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"comme",
+				"Toggle Block Comment"
+			],
+			[
+				"toggl",
+				"Toggle Comment"
+			],
+			[
+				"map",
+				"View: Toggle Minimap"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/d/Projects/rails_projects/sample_app/config/initializers/mime_types.rb",
+		"/D/Projects/rails_projects/first_app/config/application.rb",
+		"/D/Projects/rails_projects/first_app/public/index.html",
+		"/D/Projects/rails_projects/first_app/app/controllers/users_controller.rb",
+		"/D/Projects/rails_projects/first_app/app/views/users/show.html.erb",
+		"/D/Projects/rails_projects/first_app/config/routes.rb",
+		"/D/Projects/rails_projects/first_app/app/models/micropost.rb",
+		"/D/Projects/rails_projects/first_app/app/models/user.rb",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/DetectSyntax/DetectSyntax.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/DetectSyntax.sublime-settings",
+		"/D/Projects/rails_projects/first_app/Gemfile",
+		"/d/Projects/rails_projects/first_app/public/index.html",
+		"/d/Projects/rails_projects/first_app/Gemfile",
+		"/d/Projects/rails_projects/first_app/Gemfile.lock",
+		"/d/Projects/rails_projects/first_app/README.md",
+		"/d/Projects/rails_projects/first_app/.gitignore",
+		"/D/Projects/railsdemo/config/routes.rb",
+		"/D/Projects/railsdemo/app/views/welcome/index.html.erb",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Sublimerge/Default (Windows).sublime-keymap",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Alignment/Base File.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Terminal/Base File.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Emmet/Emmet.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/D/Projects/gtask/Gruntfile.js",
+		"/D/Projects/gtask/package.json",
+		"/D/Projects/gtask/app/index.html",
+		"/D/Projects/gtask/test/index.html",
+		"/D/Projects/gtask/test/setup.js",
+		"/D/Projects/gtask/test/app.test.js",
+		"/D/Projects/gtask/require-config.js",
+		"/D/Projects/gtask/server.js",
+		"/D/Projects/gtask/app/js/main.js",
+		"/D/Projects/gtask/app/js/app.js",
+		"/D/Projects/gtask/grunt.js",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/Distraction Free.sublime-settings",
+		"/D/Projects/gtask/gtask.sublime-project",
+		"/D/Projects/gtask/.ropeproject/config.py",
+		"/D/Dev/nodejs/helloExpress/app.js",
+		"/D/Dev/nodejs/helloExpress/views/home.jade",
+		"/D/Dev/nodejs/helloExpress/views/layout.jade",
+		"/D/Dev/nodejs/helloExpress/views/hello.html",
+		"/D/Dev/nodejs/helloExpress/package.json",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Nodejs/Nodejs.sublime-settings",
+		"/D/Projects/Spoon-Knife/README",
+		"/D/Projects/helloworld/README",
+		"/D/Projects/hello/readme",
+		"/D/Projects/hello/lib/hello.rb",
+		"/D/Projects/hello/rakefile",
+		"/D/Projects/hello/lib/greeter.rb",
+		"/D/Projects/hello/hello.rb",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Git/Git.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/SublimeRope/Default (Windows).sublime-keymap",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/Python.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/SublimeRope.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/SublimeRope/SublimeRope.sublime-settings",
+		"/D/Projects/sample/style.css",
+		"/D/Projects/sample/default.html",
+		"/D/Projects/aaa.js",
+		"/D/Projects/sample/content/site.css",
+		"/D/Projects/sample/file1.html",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/AutoCopyright.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/DocBlockr/Base File.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Gist/Gist.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/SublimeLinter/README.md",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+		"/D/Projects/sample/sample.sublime-project",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/D/Projects/sample/css/sass/button",
+		"/D/Projects/test.ts",
+		"/D/Projects/htmlgame/canvas.html",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/JsFormat/Default (Windows).sublime-keymap",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/JsFormat/JsFormat.sublime-settings",
+		"/D/Projects/tp.py",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/c/users/vu/appdata/local/temp/tsc_re8eue.js",
+		"/c/users/vu/appdata/local/temp/tsc_goue0w.js",
+		"/c/users/vu/appdata/local/temp/tsc_govykd.js",
+		"/c/users/vu/appdata/local/temp/tsc_qjqrgj.js",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/TypeScript Compiler/TypeScript Compiler.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/TypeScript Compiler.sublime-settings",
+		"/c/users/vu/appdata/local/temp/tsc_u1bdzy.js",
+		"/c/users/vu/appdata/local/temp/tsc_cifcy0.js",
+		"/c/users/vu/appdata/local/temp/tsc_3aemg7.js",
+		"/c/users/vu/appdata/local/temp/tsc_avuyqq.js",
+		"/c/users/vu/appdata/local/temp/tsc_k7iv2q.js",
+		"/c/users/vu/appdata/local/temp/tsc_cwqyec.js",
+		"/c/users/vu/appdata/local/temp/tsc__3uvje.js",
+		"/c/users/vu/appdata/local/temp/tsc_agebda.js",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/Package Control.sublime-settings",
+		"/c/users/vu/appdata/local/temp/tsc_jmy2eg.js",
+		"/c/users/vu/appdata/local/temp/tsc_m7l2l9.js",
+		"/c/users/vu/appdata/local/temp/tsc_jwhj5s.js",
+		"/D/MediaOnline/SourceCode/BoomerangV2/Boomerang.CMS/Content/Site.css",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sql",
+			"		.",
+			"private",
+			"False",
+			" >''",
+			"haivu",
+			"haivuvu",
+			"haivu",
+			">",
+			"Student",
+			"pathname",
+			"ctrl+d",
+			"pathname",
+			"path"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/d/Projects/rails_projects/sample_app/Gemfile",
+					"settings":
+					{
+						"buffer_size": 755,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/d/Projects/rails_projects/sample_app/README.md",
+					"settings":
+					{
+						"buffer_size": 204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.git":
+	{
+		"height": 102.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"gems",
+				"config/initializers/mime_types.rb"
+			],
+			[
+				"model",
+				"app/models/user.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"gemfi",
+				"first_app/Gemfile"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"lay",
+				"views/layout.jade"
+			],
+			[
+				"ser",
+				"server.js"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"ap",
+				"app.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"hom",
+				"views/home.jade"
+			],
+			[
+				"home",
+				"views/home.jade"
+			],
+			[
+				"si",
+				"/D/MediaOnline/SourceCode/BoomerangV2/Boomerang.CMS/Content/Site.css"
+			],
+			[
+				"c",
+				"/D/Projects/htmlgame/canvas.html"
+			],
+			[
+				"site",
+				"/D/MediaOnline/SourceCode/BoomerangV2/Boomerang.CMS/Content/Site.css"
+			],
+			[
+				"can",
+				"/D/Projects/htmlgame/canvas.html"
+			],
+			[
+				"ut",
+				"untitled"
+			],
+			[
+				"cna",
+				"/D/Projects/htmlgame/canvas.html"
+			],
+			[
+				"u",
+				"untitled"
+			],
+			[
+				"pro",
+				"/D/Projects/htmlgame/canvas.html"
+			],
+			[
+				"t",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
