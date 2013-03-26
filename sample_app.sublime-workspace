@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"vali",
+				"VALID_EMAIL_REGEX"
+			],
+			[
+				"pa",
+				"page_title"
+			],
+			[
 				"ti",
 				"title"
 			],
@@ -103,28 +111,36 @@
 	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
 	{
-		"height": 375.0,
+		"height": 235.0,
 		"selected_items":
 		[
 			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"test",
+				"RubyTest: Run All Ruby Tests"
+			],
+			[
 				"",
 				"File: Close All"
+			],
+			[
+				"ruby",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"rubytest",
+				"RubyTest: Show Test Panel"
 			],
 			[
 				"rails",
 				"Set Syntax: Ruby on Rails"
 			],
 			[
-				"ruby",
-				"Set Syntax: Ruby"
-			],
-			[
 				"save",
 				"Project: Save As"
-			],
-			[
-				"close",
-				"File: Close All"
 			],
 			[
 				"install",
@@ -480,18 +496,38 @@
 	},
 	"file_history":
 	[
-		"/d/Projects/rails_projects/sample_app/spec/features/static_pages_spec.rb",
+		"/d/Projects/rails_projects/sample_app/app/views/users/new.html.erb",
+		"/d/Projects/rails_projects/sample_app/spec/features/user_pages_spec.rb",
 		"/d/Projects/rails_projects/sample_app/config/routes.rb",
-		"/d/Projects/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
-		"/d/Projects/rails_projects/sample_app/app/views/static_pages/contact.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+		"/d/Projects/rails_projects/sample_app/spec/features/static_pages_spec.rb",
+		"/d/Projects/rails_projects/sample_app/app/helpers/application_helper.rb",
+		"/d/Projects/rails_projects/sample_app/spec/helpers/application_helper_spec.rb",
+		"/d/Projects/rails_projects/sample_app/spec/support/utilities.rb",
+		"/d/Projects/rails_projects/sample_app/app/models/user.rb",
 		"/d/Projects/rails_projects/sample_app/Gemfile",
+		"/d/Projects/rails_projects/sample_app/spec/models/user_spec.rb",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/d/Projects/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/d/Projects/rails_projects/sample_app/app/views/layouts/_shim.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/views/layouts/_footer.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/views/layouts/_header.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/controllers/users_controller.rb",
+		"/d/Projects/rails_projects/sample_app/public/index.html",
+		"/d/Projects/rails_projects/sample_app/public/_aaindex.html",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/RubyTest/Default (Windows).sublime-keymap",
+		"/d/Projects/rails_projects/sample_app/app/views/static_pages/contact.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/assets/stylesheets/application.css",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/RubyTest/Default.sublime-keymap",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/RubyTest/RubyTest.sublime-settings",
+		"/d/Projects/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
 		"/d/Projects/rails_projects/sample_app/spec/spec_helper.rb",
 		"/d/Projects/rails_projects/sample_app/.rspec",
 		"/d/Projects/rails_projects/sample_app/Guardfile",
-		"/d/Projects/rails_projects/sample_app/app/views/layouts/application.html.erb",
 		"/d/Projects/rails_projects/sample_app/app/views/static_pages/about.html.erb",
 		"/d/Projects/rails_projects/sample_app/app/views/static_pages/help.html.erb",
-		"/d/Projects/rails_projects/sample_app/app/views/static_pages/home.html.erb",
 		"/d/Projects/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
 		"/d/Projects/rails_projects/sample_app/README.md",
 		"/d/Projects/rails_projects/sample_app/public/hello.html",
@@ -531,7 +567,6 @@
 		"/D/Projects/gtask/app/js/main.js",
 		"/D/Projects/gtask/app/js/app.js",
 		"/D/Projects/gtask/grunt.js",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/Preferences.sublime-settings",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/Default (Windows).sublime-keymap",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
@@ -588,15 +623,7 @@
 		"/c/users/vu/appdata/local/temp/tsc_3aemg7.js",
 		"/c/users/vu/appdata/local/temp/tsc_avuyqq.js",
 		"/c/users/vu/appdata/local/temp/tsc_k7iv2q.js",
-		"/c/users/vu/appdata/local/temp/tsc_cwqyec.js",
-		"/c/users/vu/appdata/local/temp/tsc__3uvje.js",
-		"/c/users/vu/appdata/local/temp/tsc_agebda.js",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/Package Control.sublime-settings",
-		"/c/users/vu/appdata/local/temp/tsc_jmy2eg.js",
-		"/c/users/vu/appdata/local/temp/tsc_m7l2l9.js",
-		"/c/users/vu/appdata/local/temp/tsc_jwhj5s.js",
-		"/D/MediaOnline/SourceCode/BoomerangV2/Boomerang.CMS/Content/Site.css",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Default/Preferences.sublime-settings"
+		"/c/users/vu/appdata/local/temp/tsc_cwqyec.js"
 	],
 	"find":
 	{
@@ -684,7 +711,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 100.0
+		"height": 202.0
 	},
 	"output.git":
 	{
@@ -701,16 +728,124 @@
 		"selected_items":
 		[
 			[
+				"model",
+				"app/models/user.rb"
+			],
+			[
+				"",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"usersp",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"modeluser",
+				"app/models/user.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"helper",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"sta",
+				"spec/features/static_pages_spec.rb"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"new",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"spe",
+				"spec/features/static_pages_spec.rb"
+			],
+			[
+				"fot",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"heae",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"spec",
+				"spec/features/static_pages_spec.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"hear",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"applay",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"cu",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"lay",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"layto",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"cust",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"ho",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"app",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"staticpage",
+				"spec/features/static_pages_spec.rb"
+			],
+			[
+				"layout",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"appl",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"contact",
+				"app/views/static_pages/contact.html.erb"
+			],
+			[
 				"gua",
 				"Guardfile"
 			],
 			[
 				"speche",
 				"spec/spec_helper.rb"
-			],
-			[
-				"gem",
-				"Gemfile"
 			],
 			[
 				"ge",
@@ -725,10 +860,6 @@
 				"app/controllers/static_pages_controller.rb"
 			],
 			[
-				"route",
-				"config/routes.rb"
-			],
-			[
 				"specsta",
 				"spec/features/static_pages_spec.rb"
 			],
@@ -739,10 +870,6 @@
 			[
 				"hel",
 				"app/views/static_pages/help.html.erb"
-			],
-			[
-				"home",
-				"app/views/static_pages/home.html.erb"
 			],
 			[
 				"he",
@@ -757,10 +884,6 @@
 				"spec/requests/static_pages_spec.rb"
 			],
 			[
-				"sta",
-				"app/controllers/static_pages_controller.rb"
-			],
-			[
 				"rsp",
 				".rspec"
 			],
@@ -773,10 +896,6 @@
 				"config/initializers/mime_types.rb"
 			],
 			[
-				"model",
-				"app/models/user.rb"
-			],
-			[
 				"rout",
 				"config/routes.rb"
 			],
@@ -787,14 +906,6 @@
 			[
 				"gemfi",
 				"first_app/Gemfile"
-			],
-			[
-				"app",
-				"app.js"
-			],
-			[
-				"lay",
-				"views/layout.jade"
 			],
 			[
 				"ser",

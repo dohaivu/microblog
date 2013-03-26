@@ -6,10 +6,8 @@ gem 'bootstrap-sass', '2.1'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
-group :development do
-	gem 'sqlite3'
-	gem 'rspec-rails'
-	gem 'guard-rspec'
+group :development do	
+	gem 'annotate'
 end
 
 
@@ -31,6 +29,9 @@ group :test do
 	gem 'wdm', '~> 0.1'
 end
 group :development, :test do
+	gem 'sqlite3'
+	gem 'rspec-rails'
+	gem 'guard-rspec'
 	gem 'guard-spork'
 	gem 'spork'
 end
