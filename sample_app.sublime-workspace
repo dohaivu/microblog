@@ -4,12 +4,44 @@
 		"selected_items":
 		[
 			[
-				"vali",
-				"VALID_EMAIL_REGEX"
+				"pas",
+				"password_confirmation"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"sho",
+				"should"
+			],
+			[
+				"pass",
+				"password_confirmation"
+			],
+			[
+				"user",
+				"user_for_invalid_password"
 			],
 			[
 				"pa",
-				"page_title"
+				"patfh	path_from_here( .. )"
+			],
+			[
+				"shoul",
+				"should_not"
+			],
+			[
+				"shou",
+				"should_not"
+			],
+			[
+				"passw",
+				"password_confirmation"
+			],
+			[
+				"vali",
+				"VALID_EMAIL_REGEX"
 			],
 			[
 				"ti",
@@ -107,20 +139,68 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/d/Projects/rails_projects/sample_app/spec/models/user_spec.rb",
+			"settings":
+			{
+				"buffer_size": 2989,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/d/Projects/rails_projects/sample_app/app/models/user.rb",
+			"settings":
+			{
+				"buffer_size": 759,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/d/Projects/rails_projects/sample_app/db/migrate/20130326111651_add_index_to_users_email.rb",
+			"settings":
+			{
+				"buffer_size": 118,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/d/Projects/rails_projects/sample_app/db/schema.rb",
+			"settings":
+			{
+				"buffer_size": 1067,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/d/Projects/rails_projects/sample_app/Gemfile",
+			"settings":
+			{
+				"buffer_size": 980,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/d/Projects/rails_projects/sample_app/db/migrate/20130326112628_add_password_digest_to_users.rb",
+			"settings":
+			{
+				"buffer_size": 129,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
 	{
-		"height": 235.0,
+		"height": 375.0,
 		"selected_items":
 		[
 			[
-				"close",
-				"File: Close All"
+				"test",
+				"RubyTest: Switch between code and test"
 			],
 			[
-				"test",
-				"RubyTest: Run All Ruby Tests"
+				"close",
+				"File: Close All"
 			],
 			[
 				"",
@@ -496,6 +576,7 @@
 	},
 	"file_history":
 	[
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/Preferences.sublime-settings",
 		"/d/Projects/rails_projects/sample_app/app/views/users/new.html.erb",
 		"/d/Projects/rails_projects/sample_app/spec/features/user_pages_spec.rb",
 		"/d/Projects/rails_projects/sample_app/config/routes.rb",
@@ -507,7 +588,6 @@
 		"/d/Projects/rails_projects/sample_app/app/models/user.rb",
 		"/d/Projects/rails_projects/sample_app/Gemfile",
 		"/d/Projects/rails_projects/sample_app/spec/models/user_spec.rb",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/Preferences.sublime-settings",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Default/Preferences.sublime-settings",
 		"/d/Projects/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
 		"/d/Projects/rails_projects/sample_app/app/views/layouts/_shim.html.erb",
@@ -673,8 +753,168 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/d/Projects/rails_projects/sample_app/spec/models/user_spec.rb",
+					"settings":
+					{
+						"buffer_size": 2989,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2717,
+								2717
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/d/Projects/rails_projects/sample_app/app/models/user.rb",
+					"settings":
+					{
+						"buffer_size": 759,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								754,
+								754
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/d/Projects/rails_projects/sample_app/db/migrate/20130326111651_add_index_to_users_email.rb",
+					"settings":
+					{
+						"buffer_size": 118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/d/Projects/rails_projects/sample_app/db/schema.rb",
+					"settings":
+					{
+						"buffer_size": 1067,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/d/Projects/rails_projects/sample_app/Gemfile",
+					"settings":
+					{
+						"buffer_size": 980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								434,
+								434
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/d/Projects/rails_projects/sample_app/db/migrate/20130326112628_add_password_digest_to_users.rb",
+					"settings":
+					{
+						"buffer_size": 129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -728,6 +968,30 @@
 		"selected_items":
 		[
 			[
+				"passo",
+				"db/migrate/20130326112628_add_password_digest_to_users.rb"
+			],
+			[
+				"usersp",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"schema",
+				"db/schema.rb"
+			],
+			[
+				"add",
+				"db/migrate/20130326111651_add_index_to_users_email.rb"
+			],
+			[
 				"model",
 				"app/models/user.rb"
 			],
@@ -736,20 +1000,8 @@
 				"spec/models/user_spec.rb"
 			],
 			[
-				"user",
-				"app/models/user.rb"
-			],
-			[
-				"usersp",
-				"spec/models/user_spec.rb"
-			],
-			[
 				"modeluser",
 				"app/models/user.rb"
-			],
-			[
-				"gem",
-				"Gemfile"
 			],
 			[
 				"helper",

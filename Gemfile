@@ -28,6 +28,7 @@ group :test do
 	gem 'rb-notifu'
 	gem 'win32console'
 	gem 'wdm', '~> 0.1'
+	gem 'factory_girl_rails'
 end
 group :development, :test do
 	gem 'sqlite3'
