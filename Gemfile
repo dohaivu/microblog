@@ -29,6 +29,8 @@ group :test do
 	gem 'win32console'
 	gem 'wdm', '~> 0.1'
 	gem 'factory_girl_rails'
+	gem 'cucumber-rails', :require => false
+	gem 'database_cleaner'
 end
 group :development, :test do
 	gem 'sqlite3'

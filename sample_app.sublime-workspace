@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"gra",
+				"gravatar_id"
+			],
+			[
 				"pas",
 				"password_confirmation"
 			],
@@ -139,68 +143,24 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/d/Projects/rails_projects/sample_app/spec/models/user_spec.rb",
-			"settings":
-			{
-				"buffer_size": 2989,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/d/Projects/rails_projects/sample_app/app/models/user.rb",
-			"settings":
-			{
-				"buffer_size": 759,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/d/Projects/rails_projects/sample_app/db/migrate/20130326111651_add_index_to_users_email.rb",
-			"settings":
-			{
-				"buffer_size": 118,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/d/Projects/rails_projects/sample_app/db/schema.rb",
-			"settings":
-			{
-				"buffer_size": 1067,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/d/Projects/rails_projects/sample_app/Gemfile",
-			"settings":
-			{
-				"buffer_size": 980,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/d/Projects/rails_projects/sample_app/db/migrate/20130326112628_add_password_digest_to_users.rb",
-			"settings":
-			{
-				"buffer_size": 129,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
 	{
-		"height": 375.0,
+		"height": 160.0,
 		"selected_items":
 		[
 			[
-				"test",
-				"RubyTest: Switch between code and test"
-			],
-			[
 				"close",
 				"File: Close All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"test",
+				"RubyTest: Switch between code and test"
 			],
 			[
 				"",
@@ -221,10 +181,6 @@
 			[
 				"save",
 				"Project: Save As"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"instal",
@@ -576,25 +532,43 @@
 	},
 	"file_history":
 	[
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/Preferences.sublime-settings",
-		"/d/Projects/rails_projects/sample_app/app/views/users/new.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/controllers/sessions_controller.rb",
+		"/d/Projects/rails_projects/sample_app/app/controllers/application_controller.rb",
 		"/d/Projects/rails_projects/sample_app/spec/features/user_pages_spec.rb",
+		"/d/Projects/rails_projects/sample_app/spec/models/user_spec.rb",
+		"/d/Projects/rails_projects/sample_app/app/models/user.rb",
+		"/d/Projects/rails_projects/sample_app/app/helpers/sessions_helper.rb",
+		"/d/Projects/rails_projects/sample_app/app/views/layouts/_header.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/assets/javascripts/application.js",
+		"/d/Projects/rails_projects/sample_app/app/controllers/users_controller.rb",
+		"/d/Projects/rails_projects/sample_app/spec/features/authentication_pages_spec.rb",
+		"/d/Projects/rails_projects/sample_app/Gemfile",
+		"/d/Projects/rails_projects/sample_app/features/signing_in.feature",
 		"/d/Projects/rails_projects/sample_app/config/routes.rb",
+		"/d/Projects/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/views/sessions/new.html.erb",
+		"/d/Projects/rails_projects/sample_app/db/migrate/20130328140356_add_remember_token_to_users.rb",
+		"/d/Projects/rails_projects/sample_app/spec/requests/authentication_pages_spec.rb",
+		"/d/Projects/rails_projects/sample_app/app/helpers/users_helper.rb",
+		"/d/Projects/rails_projects/sample_app/spec/factories.rb",
+		"/d/Projects/rails_projects/sample_app/config/environments/test.rb",
+		"/d/Projects/rails_projects/sample_app/app/views/users/show.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/d/Projects/rails_projects/sample_app/app/views/users/new.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/views/shared/_error_messages.html.erb",
+		"/d/Projects/rails_projects/sample_app/config/environments/production.rb",
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/d/Projects/rails_projects/sample_app/db/migrate/20130326111651_add_index_to_users_email.rb",
+		"/d/Projects/rails_projects/sample_app/db/schema.rb",
+		"/d/Projects/rails_projects/sample_app/db/migrate/20130326112628_add_password_digest_to_users.rb",
 		"/d/Projects/rails_projects/sample_app/app/views/static_pages/home.html.erb",
 		"/d/Projects/rails_projects/sample_app/spec/features/static_pages_spec.rb",
 		"/d/Projects/rails_projects/sample_app/app/helpers/application_helper.rb",
 		"/d/Projects/rails_projects/sample_app/spec/helpers/application_helper_spec.rb",
 		"/d/Projects/rails_projects/sample_app/spec/support/utilities.rb",
-		"/d/Projects/rails_projects/sample_app/app/models/user.rb",
-		"/d/Projects/rails_projects/sample_app/Gemfile",
-		"/d/Projects/rails_projects/sample_app/spec/models/user_spec.rb",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Default/Preferences.sublime-settings",
-		"/d/Projects/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
 		"/d/Projects/rails_projects/sample_app/app/views/layouts/_shim.html.erb",
-		"/d/Projects/rails_projects/sample_app/app/views/layouts/application.html.erb",
 		"/d/Projects/rails_projects/sample_app/app/views/layouts/_footer.html.erb",
-		"/d/Projects/rails_projects/sample_app/app/views/layouts/_header.html.erb",
-		"/d/Projects/rails_projects/sample_app/app/controllers/users_controller.rb",
 		"/d/Projects/rails_projects/sample_app/public/index.html",
 		"/d/Projects/rails_projects/sample_app/public/_aaindex.html",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/RubyTest/Default (Windows).sublime-keymap",
@@ -685,25 +659,7 @@
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/SublimeLinter/Default (Windows).sublime-keymap",
 		"/D/Projects/sample/sample.sublime-project",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
-		"/D/Projects/sample/css/sass/button",
-		"/D/Projects/test.ts",
-		"/D/Projects/htmlgame/canvas.html",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/JsFormat/Default (Windows).sublime-keymap",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/JsFormat/JsFormat.sublime-settings",
-		"/D/Projects/tp.py",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
-		"/c/users/vu/appdata/local/temp/tsc_re8eue.js",
-		"/c/users/vu/appdata/local/temp/tsc_goue0w.js",
-		"/c/users/vu/appdata/local/temp/tsc_govykd.js",
-		"/c/users/vu/appdata/local/temp/tsc_qjqrgj.js",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/TypeScript Compiler/TypeScript Compiler.sublime-settings",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/TypeScript Compiler.sublime-settings",
-		"/c/users/vu/appdata/local/temp/tsc_u1bdzy.js",
-		"/c/users/vu/appdata/local/temp/tsc_cifcy0.js",
-		"/c/users/vu/appdata/local/temp/tsc_3aemg7.js",
-		"/c/users/vu/appdata/local/temp/tsc_avuyqq.js",
-		"/c/users/vu/appdata/local/temp/tsc_k7iv2q.js",
-		"/c/users/vu/appdata/local/temp/tsc_cwqyec.js"
+		"/D/Projects/sample/css/sass/button"
 	],
 	"find":
 	{
@@ -721,6 +677,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"end",
 			"Ruby on Rails Tutorial Sample App",
 			"sql",
 			"		.",
@@ -753,168 +710,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/d/Projects/rails_projects/sample_app/spec/models/user_spec.rb",
-					"settings":
-					{
-						"buffer_size": 2989,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2717,
-								2717
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/RSpec/RSpec.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1080.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/d/Projects/rails_projects/sample_app/app/models/user.rb",
-					"settings":
-					{
-						"buffer_size": 759,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								754,
-								754
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/d/Projects/rails_projects/sample_app/db/migrate/20130326111651_add_index_to_users_email.rb",
-					"settings":
-					{
-						"buffer_size": 118,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								118,
-								118
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/d/Projects/rails_projects/sample_app/db/schema.rb",
-					"settings":
-					{
-						"buffer_size": 1067,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/d/Projects/rails_projects/sample_app/Gemfile",
-					"settings":
-					{
-						"buffer_size": 980,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								434,
-								434
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/d/Projects/rails_projects/sample_app/db/migrate/20130326112628_add_password_digest_to_users.rb",
-					"settings":
-					{
-						"buffer_size": 129,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								129,
-								129
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -968,16 +765,176 @@
 		"selected_items":
 		[
 			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"session",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"ses",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"authenspe",
+				"spec/features/authentication_pages_spec.rb"
+			],
+			[
+				"usercontro",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"userpagesp",
+				"spec/features/user_pages_spec.rb"
+			],
+			[
+				"applijs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"hea",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"sesshe",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"sessionhel",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"migrarem",
+				"db/migrate/20130328140356_add_remember_token_to_users.rb"
+			],
+			[
+				"userspec",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"applicontro",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"authen",
+				"spec/features/authentication_pages_spec.rb"
+			],
+			[
+				"headr",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"layout",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"sesnew",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"consess",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"controller",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"authe",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"lay",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"prod",
+				"config/environments/production.rb"
+			],
+			[
+				"userco",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"cus",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"new",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"controluser",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"spe",
+				"spec/features/user_pages_spec.rb"
+			],
+			[
+				"cusom",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"usecontro",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"userpage",
+				"spec/features/user_pages_spec.rb"
+			],
+			[
+				"scss",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"show",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"usershel",
+				"app/helpers/users_helper.rb"
+			],
+			[
+				"envipro",
+				"config/environments/production.rb"
+			],
+			[
+				"test",
+				"config/environments/test.rb"
+			],
+			[
+				"usershow",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"userspe",
+				"spec/features/user_pages_spec.rb"
+			],
+			[
+				"fact",
+				"spec/factories.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
 				"passo",
 				"db/migrate/20130326112628_add_password_digest_to_users.rb"
 			],
 			[
 				"usersp",
 				"spec/models/user_spec.rb"
-			],
-			[
-				"gem",
-				"Gemfile"
 			],
 			[
 				"user",
@@ -996,10 +953,6 @@
 				"app/models/user.rb"
 			],
 			[
-				"",
-				"spec/models/user_spec.rb"
-			],
-			[
 				"modeluser",
 				"app/models/user.rb"
 			],
@@ -1016,18 +969,6 @@
 				"app/views/static_pages/home.html.erb"
 			],
 			[
-				"rou",
-				"config/routes.rb"
-			],
-			[
-				"new",
-				"app/views/users/new.html.erb"
-			],
-			[
-				"spe",
-				"spec/features/static_pages_spec.rb"
-			],
-			[
 				"fot",
 				"app/views/layouts/_footer.html.erb"
 			],
@@ -1040,10 +981,6 @@
 				"spec/features/static_pages_spec.rb"
 			],
 			[
-				"route",
-				"config/routes.rb"
-			],
-			[
 				"hear",
 				"app/views/layouts/_header.html.erb"
 			],
@@ -1054,10 +991,6 @@
 			[
 				"cu",
 				"app/assets/stylesheets/custom.css.scss"
-			],
-			[
-				"lay",
-				"app/views/layouts/application.html.erb"
 			],
 			[
 				"layto",
@@ -1078,10 +1011,6 @@
 			[
 				"staticpage",
 				"spec/features/static_pages_spec.rb"
-			],
-			[
-				"layout",
-				"app/views/layouts/application.html.erb"
 			],
 			[
 				"appl",
