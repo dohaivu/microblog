@@ -143,24 +143,20 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/d/Projects/rails_projects/sample_app/app/views/layouts/application.html.erb",
-			"settings":
-			{
-				"buffer_size": 552,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
 	{
-		"height": 185.0,
+		"height": 375.0,
 		"selected_items":
 		[
 			[
 				"close",
 				"File: Close All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
 			],
 			[
 				"test",
@@ -185,10 +181,6 @@
 			[
 				"save",
 				"Project: Save As"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"instal",
@@ -540,34 +532,45 @@
 	},
 	"file_history":
 	[
-		"/d/Projects/rails_projects/sample_app/app/helpers/users_helper.rb",
+		"/d/Projects/rails_projects/sample_app/sample_app.sublime-workspace",
+		"/d/Projects/rails_projects/sample_app/features/signing_in.feature",
+		"/d/Projects/rails_projects/sample_app/features/step_definitions/authentication_steps.rb",
+		"/d/Projects/rails_projects/sample_app/spec/support/utilities.rb",
+		"/d/Projects/rails_projects/sample_app/spec/features/authentication_pages_spec.rb",
 		"/d/Projects/rails_projects/sample_app/spec/features/user_pages_spec.rb",
+		"/d/Projects/rails_projects/sample_app/app/controllers/sessions_controller.rb",
+		"/d/Projects/rails_projects/sample_app/app/controllers/application_controller.rb",
+		"/d/Projects/rails_projects/sample_app/spec/models/user_spec.rb",
+		"/d/Projects/rails_projects/sample_app/app/models/user.rb",
+		"/d/Projects/rails_projects/sample_app/app/helpers/sessions_helper.rb",
+		"/d/Projects/rails_projects/sample_app/app/views/layouts/_header.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/assets/javascripts/application.js",
+		"/d/Projects/rails_projects/sample_app/app/controllers/users_controller.rb",
+		"/d/Projects/rails_projects/sample_app/Gemfile",
+		"/d/Projects/rails_projects/sample_app/config/routes.rb",
 		"/d/Projects/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/views/sessions/new.html.erb",
+		"/d/Projects/rails_projects/sample_app/db/migrate/20130328140356_add_remember_token_to_users.rb",
+		"/d/Projects/rails_projects/sample_app/spec/requests/authentication_pages_spec.rb",
+		"/d/Projects/rails_projects/sample_app/app/helpers/users_helper.rb",
 		"/d/Projects/rails_projects/sample_app/spec/factories.rb",
 		"/d/Projects/rails_projects/sample_app/config/environments/test.rb",
 		"/d/Projects/rails_projects/sample_app/app/views/users/show.html.erb",
 		"/d/Projects/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
 		"/d/Projects/rails_projects/sample_app/app/views/users/new.html.erb",
 		"/d/Projects/rails_projects/sample_app/app/views/shared/_error_messages.html.erb",
-		"/d/Projects/rails_projects/sample_app/app/controllers/users_controller.rb",
 		"/d/Projects/rails_projects/sample_app/config/environments/production.rb",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/Preferences.sublime-settings",
-		"/d/Projects/rails_projects/sample_app/spec/models/user_spec.rb",
-		"/d/Projects/rails_projects/sample_app/app/models/user.rb",
 		"/d/Projects/rails_projects/sample_app/db/migrate/20130326111651_add_index_to_users_email.rb",
 		"/d/Projects/rails_projects/sample_app/db/schema.rb",
-		"/d/Projects/rails_projects/sample_app/Gemfile",
 		"/d/Projects/rails_projects/sample_app/db/migrate/20130326112628_add_password_digest_to_users.rb",
-		"/d/Projects/rails_projects/sample_app/config/routes.rb",
 		"/d/Projects/rails_projects/sample_app/app/views/static_pages/home.html.erb",
 		"/d/Projects/rails_projects/sample_app/spec/features/static_pages_spec.rb",
 		"/d/Projects/rails_projects/sample_app/app/helpers/application_helper.rb",
 		"/d/Projects/rails_projects/sample_app/spec/helpers/application_helper_spec.rb",
-		"/d/Projects/rails_projects/sample_app/spec/support/utilities.rb",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Default/Preferences.sublime-settings",
 		"/d/Projects/rails_projects/sample_app/app/views/layouts/_shim.html.erb",
 		"/d/Projects/rails_projects/sample_app/app/views/layouts/_footer.html.erb",
-		"/d/Projects/rails_projects/sample_app/app/views/layouts/_header.html.erb",
 		"/d/Projects/rails_projects/sample_app/public/index.html",
 		"/d/Projects/rails_projects/sample_app/public/_aaindex.html",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/RubyTest/Default (Windows).sublime-keymap",
@@ -656,18 +659,7 @@
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Gist/Gist.sublime-settings",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/SublimeLinter/README.md",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/SublimeLinter/Default (Windows).sublime-keymap",
-		"/D/Projects/sample/sample.sublime-project",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
-		"/D/Projects/sample/css/sass/button",
-		"/D/Projects/test.ts",
-		"/D/Projects/htmlgame/canvas.html",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/JsFormat/Default (Windows).sublime-keymap",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/JsFormat/JsFormat.sublime-settings",
-		"/D/Projects/tp.py",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
-		"/c/users/vu/appdata/local/temp/tsc_re8eue.js",
-		"/c/users/vu/appdata/local/temp/tsc_goue0w.js",
-		"/c/users/vu/appdata/local/temp/tsc_govykd.js"
+		"/D/Projects/sample/sample.sublime-project"
 	],
 	"find":
 	{
@@ -718,35 +710,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/d/Projects/rails_projects/sample_app/app/views/layouts/application.html.erb",
-					"settings":
-					{
-						"buffer_size": 552,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								350,
-								350
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -800,16 +765,100 @@
 		"selected_items":
 		[
 			[
+				"authe",
+				"spec/features/authentication_pages_spec.rb"
+			],
+			[
+				"utilit",
+				"spec/support/utilities.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"session",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"ses",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"authenspe",
+				"spec/features/authentication_pages_spec.rb"
+			],
+			[
+				"usercontro",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"userpagesp",
+				"spec/features/user_pages_spec.rb"
+			],
+			[
+				"applijs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"hea",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"sesshe",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"sessionhel",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"migrarem",
+				"db/migrate/20130328140356_add_remember_token_to_users.rb"
+			],
+			[
+				"userspec",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"applicontro",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"authen",
+				"spec/features/authentication_pages_spec.rb"
+			],
+			[
+				"headr",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
 				"layout",
 				"app/views/layouts/application.html.erb"
 			],
 			[
-				"lay",
-				"app/views/layouts/application.html.erb"
+				"sesnew",
+				"app/views/sessions/new.html.erb"
 			],
 			[
-				"userspec",
-				"spec/features/user_pages_spec.rb"
+				"consess",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"controller",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"lay",
+				"app/views/layouts/application.html.erb"
 			],
 			[
 				"prod",
@@ -818,10 +867,6 @@
 			[
 				"userco",
 				"app/controllers/users_controller.rb"
-			],
-			[
-				"",
-				"spec/features/user_pages_spec.rb"
 			],
 			[
 				"cus",
@@ -884,14 +929,6 @@
 				"spec/factories.rb"
 			],
 			[
-				"gem",
-				"Gemfile"
-			],
-			[
-				"usercontro",
-				"app/controllers/users_controller.rb"
-			],
-			[
 				"rou",
 				"config/routes.rb"
 			],
@@ -946,10 +983,6 @@
 			[
 				"spec",
 				"spec/features/static_pages_spec.rb"
-			],
-			[
-				"route",
-				"config/routes.rb"
 			],
 			[
 				"hear",
