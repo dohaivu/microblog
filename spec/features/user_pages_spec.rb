@@ -6,7 +6,7 @@ describe "User pages" do
 
   describe "index" do
   	before do
-  		#sign_in FactoryGirl.create(:user)
+  		sign_in FactoryGirl.create(:user)
   		FactoryGirl.create(:user, name: "Bob", email: "bob@example.com")
   		FactoryGirl.create(:user, name: "Ben", email: "ben@example.com")
   		visit users_path
@@ -200,7 +200,7 @@ describe "User pages" do
     before { user.follow!(other_user) }
 
     describe "followed users" do
-      before do
+      before do      	
         sign_in user
         visit following_user_path(user)
       end

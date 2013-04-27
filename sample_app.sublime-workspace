@@ -155,9 +155,13 @@
 	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
 	{
-		"height": 210.0,
+		"height": 160.0,
 		"selected_items":
 		[
+			[
+				"clos",
+				"File: Close All"
+			],
 			[
 				"close",
 				"File: Close All"
@@ -552,21 +556,30 @@
 	},
 	"file_history":
 	[
-		"/d/Projects/rails_projects/sample_app/app/views/users/_follow_form.html.erb",
-		"/d/Projects/rails_projects/sample_app/config/routes.rb",
-		"/d/Projects/rails_projects/sample_app/app/views/users/_follow.html.erb",
-		"/d/Projects/rails_projects/sample_app/app/views/users/_unfollow.html.erb",
-		"/d/Projects/rails_projects/sample_app/app/views/users/show.html.erb",
-		"/d/Projects/rails_projects/sample_app/spec/features/authentication_pages_spec.rb",
+		"/d/Projects/rails_projects/sample_app/app/helpers/sessions_helper.rb",
 		"/d/Projects/rails_projects/sample_app/spec/features/user_pages_spec.rb",
+		"/d/Projects/rails_projects/sample_app/lib/tasks/sample_data.rake",
+		"/d/Projects/rails_projects/sample_app/spec/support/utilities.rb",
+		"/d/Projects/rails_projects/sample_app/app/views/users/show.html.erb",
+		"/d/Projects/rails_projects/sample_app/config/routes.rb",
+		"/d/Projects/rails_projects/sample_app/spec/features/authentication_pages_spec.rb",
 		"/d/Projects/rails_projects/sample_app/app/controllers/users_controller.rb",
 		"/d/Projects/rails_projects/sample_app/app/views/users/show_follow.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/controllers/relationships_controller_controller.rb",
+		"/d/Projects/rails_projects/sample_app/app/views/users/_follow.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/views/users/_unfollow.html.erb",
+		"/d/Projects/rails_projects/sample_app/app/controllers/relationships_controller.rb",
+		"/d/Projects/rails_projects/sample_app/app/views/relationships/create.js.erb",
+		"/d/Projects/rails_projects/sample_app/app/views/relationships/destroy.js.erb",
+		"/d/Projects/rails_projects/sample_app/spec/controllers/relationships_controller_spec.rb",
+		"/d/Projects/rails_projects/sample_app/spec/models/user_spec.rb",
+		"/d/Projects/rails_projects/sample_app/app/models/user.rb",
+		"/d/Projects/rails_projects/sample_app/app/models/micropost.rb",
+		"/d/Projects/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
+		"/d/Projects/rails_projects/sample_app/app/views/users/_follow_form.html.erb",
 		"/d/Projects/rails_projects/sample_app/app/models/relationship.rb",
 		"/d/Projects/rails_projects/sample_app/db/migrate/20130423091451_create_relationships.rb",
 		"/d/Projects/rails_projects/sample_app/spec/models/relationship_spec.rb",
-		"/d/Projects/rails_projects/sample_app/spec/models/user_spec.rb",
-		"/d/Projects/rails_projects/sample_app/app/models/user.rb",
-		"/d/Projects/rails_projects/sample_app/lib/tasks/sample_data.rake",
 		"/d/Projects/rails_projects/sample_app/spec/features/static_pages_spec.rb",
 		"/d/Projects/rails_projects/sample_app/app/views/shared/_stats_html.er ",
 		"/d/Projects/rails_projects/sample_app/app/views/shared/_stats_html.er",
@@ -574,7 +587,6 @@
 		"/d/Projects/rails_projects/sample_app/app/views/static_pages/home.html.erb",
 		"/d/Projects/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
 		"/d/Projects/rails_projects/sample_app/app/controllers/microposts_controller.rb",
-		"/d/Projects/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
 		"/d/Projects/rails_projects/sample_app/app/views/shared/_feed.html.erb",
 		"/d/Projects/rails_projects/sample_app/app/views/shared/_feed_item.html.erb",
 		"/d/Projects/rails_projects/sample_app/app/views/shared/_error_messages.html.erb",
@@ -584,8 +596,6 @@
 		"/d/Projects/rails_projects/sample_app/app/views/microposts/_micropost.html.erb",
 		"/d/Projects/rails_projects/sample_app/spec/requests/micropost_pages_spec.rb",
 		"/d/Projects/rails_projects/sample_app/spec/models/micropost_spec.rb",
-		"/d/Projects/rails_projects/sample_app/app/models/micropost.rb",
-		"/d/Projects/rails_projects/sample_app/app/helpers/sessions_helper.rb",
 		"/d/Projects/rails_projects/sample_app/app/views/shared/_user_info.html.erb",
 		"/d/Projects/rails_projects/sample_app/app/views/microposts/_microposts.html.erb",
 		"/d/Projects/rails_projects/sample_app/spec/factories.rb",
@@ -597,7 +607,6 @@
 		"/d/Projects/rails_projects/sample_app/app/views/users/_user.html.erb",
 		"/d/Projects/rails_projects/sample_app/db/migrate/20130329093347_add_admin_to_users.rb",
 		"/d/Projects/rails_projects/sample_app/spec/controllers/controller_spec.rb",
-		"/d/Projects/rails_projects/sample_app/spec/support/utilities.rb",
 		"/d/Projects/rails_projects/sample_app/app/views/layouts/_header.html.erb",
 		"/d/Projects/rails_projects/sample_app/app/controllers/sessions_controller.rb",
 		"/d/Projects/rails_projects/sample_app/spec/spec_helper.rb",
@@ -674,12 +683,7 @@
 		"/D/Projects/gtask/grunt.js",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
 		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/Default (Windows).sublime-keymap",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
-		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/User/Distraction Free.sublime-settings",
-		"/D/Projects/gtask/gtask.sublime-project",
-		"/D/Projects/gtask/.ropeproject/config.py",
-		"/D/Dev/nodejs/helloExpress/app.js",
-		"/D/Dev/nodejs/helloExpress/views/home.jade"
+		"/D/Softwares/Sublime Text 2.0.1 x64/Data/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings"
 	],
 	"find":
 	{
@@ -785,12 +789,64 @@
 		"selected_items":
 		[
 			[
-				"usercontr",
-				"app/controllers/users_controller.rb"
+				"dtaa",
+				"lib/tasks/sample_data.rake"
+			],
+			[
+				"sessionhe",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"static",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"micro",
+				"app/models/micropost.rb"
+			],
+			[
+				"micropost",
+				"app/models/micropost.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"userspec",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"",
+				"app/controllers/relationships_controller.rb"
+			],
+			[
+				"relation",
+				"app/controllers/relationships_controller_controller.rb"
+			],
+			[
+				"unfl",
+				"app/views/users/_unfollow.html.erb"
+			],
+			[
+				"_folow",
+				"app/views/users/_follow.html.erb"
+			],
+			[
+				"au",
+				"spec/features/authentication_pages_spec.rb"
 			],
 			[
 				"userpage",
 				"spec/features/user_pages_spec.rb"
+			],
+			[
+				"showfo",
+				"app/views/users/show_follow.html.erb"
+			],
+			[
+				"usercontor",
+				"app/controllers/users_controller.rb"
 			],
 			[
 				"authen",
@@ -799,6 +855,14 @@
 			[
 				"route",
 				"config/routes.rb"
+			],
+			[
+				"show",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"usercontr",
+				"app/controllers/users_controller.rb"
 			],
 			[
 				"custom",
@@ -829,10 +893,6 @@
 				"spec/models/user_spec.rb"
 			],
 			[
-				"user",
-				"app/models/user.rb"
-			],
-			[
 				"use",
 				"app/models/user.rb"
 			],
@@ -841,20 +901,8 @@
 				"spec/features/user_pages_spec.rb"
 			],
 			[
-				"relation",
-				"app/models/relationship.rb"
-			],
-			[
-				"userspec",
-				"spec/models/user_spec.rb"
-			],
-			[
 				"relai",
 				"db/migrate/20130423091451_create_relationships.rb"
-			],
-			[
-				"dtaa",
-				"lib/tasks/sample_data.rake"
 			],
 			[
 				"micropos",
@@ -877,10 +925,6 @@
 				"app/controllers/microposts_controller.rb"
 			],
 			[
-				"static",
-				"app/controllers/static_pages_controller.rb"
-			],
-			[
 				"edi",
 				"app/views/users/edit.html.erb"
 			],
@@ -901,10 +945,6 @@
 				"spec/requests/micropost_pages_spec.rb"
 			],
 			[
-				"au",
-				"spec/features/authentication_pages_spec.rb"
-			],
-			[
 				"mic",
 				"app/models/micropost.rb"
 			],
@@ -923,14 +963,6 @@
 			[
 				"sampledata",
 				"lib/tasks/sample_data.rake"
-			],
-			[
-				"show",
-				"app/views/users/show.html.erb"
-			],
-			[
-				"micro",
-				"spec/models/micropost_spec.rb"
 			],
 			[
 				"u",
@@ -1011,10 +1043,6 @@
 			[
 				"usercon",
 				"app/controllers/users_controller.rb"
-			],
-			[
-				"",
-				"spec/features/authentication_pages_spec.rb"
 			],
 			[
 				"sesscon",
@@ -1271,30 +1299,6 @@
 			[
 				"he",
 				"app/views/static_pages/help.html.erb"
-			],
-			[
-				"help",
-				"app/views/static_pages/help.html.erb"
-			],
-			[
-				"rps",
-				"spec/requests/static_pages_spec.rb"
-			],
-			[
-				"rsp",
-				".rspec"
-			],
-			[
-				"read",
-				"README.md"
-			],
-			[
-				"gems",
-				"config/initializers/mime_types.rb"
-			],
-			[
-				"rout",
-				"config/routes.rb"
 			]
 		],
 		"width": 0.0
